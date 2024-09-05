@@ -127241,7 +127241,7 @@ A.b1Y.prototype={
 $1(a){return new A.uI(new A.uH("","","","","",!1,0,"",0,0,0),$.at())},
 $S:684}
 A.b1Z.prototype={
-$1(a){return new A.xI("https://k8sattendancesystem.org","https://backendsystemsocketserver-production.up.railway.app",A.xK(!1,t.a),$.at())},
+$1(a){return new A.xI("https://k8sattendancesystem.org","https://backendsystemsocketserver-production-e066.up.railway.app/",A.xK(!1,t.a),$.at())},
 $S:685}
 A.b2_.prototype={
 $1(a){return new A.xM(A.a([],t.mz),$.at())},
